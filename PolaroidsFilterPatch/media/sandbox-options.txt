@@ -3,7 +3,7 @@ VERSION = 1,
 option linkBlacklist
 {
 	type = string,
-	default = porn;xvideos;redgifs;redtub,
+	default = ,
 	page = Polaroids,
 	translation = LinkBlacklist,
 }
